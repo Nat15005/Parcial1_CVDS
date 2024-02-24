@@ -1,0 +1,5 @@
+# Ignorar directorio target generado por Maven
+/target/
+
+# Ignorar directorio .idea generado por IntelliJ IDEA
+.idea/
